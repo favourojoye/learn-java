@@ -14,4 +14,4 @@ A collection of Java Maven Projects to learn the basics programming with Java.
 ## Recommended Online IDEs
 - [GitPod](https://gitpod.io/)
 - [JDoodle](https://www.jdoodle.com/online-java-compiler/)
-- [GDB Online](https://www.onlinegdb.com/online_java_co
+- [GDB Online](https://www.onlinegdb.com/online_java_com)
